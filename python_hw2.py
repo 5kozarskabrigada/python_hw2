@@ -1,4 +1,3 @@
-# Assignment 1
 class Car:
 
     def __init__(self, model_name, year, manufacturer, engine_volume, color, price):
